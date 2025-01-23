@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a subtle bug related to the `last` keyword in `foreach` loops when iterating over array references. The bug causes the loop to terminate unexpectedly. A solution is provided in a separate file.  The bug is demonstrated in the file 'bug.pl' and the solution is in 'bugSolution.pl'
